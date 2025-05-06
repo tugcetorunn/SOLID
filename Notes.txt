@@ -1,0 +1,2 @@
+﻿uncle bob - clean code
+anlatılması ve anlaşılması en kolay, uygulanması en zor prensip - single responsibility principle
